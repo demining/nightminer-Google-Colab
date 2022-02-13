@@ -1,3 +1,10 @@
+-------------------------
+### Run nightminer-Google-Colab
+
+https://colab.research.google.com/drive/1mzP6q-odDf_HAyIbcDDFp_3ngM24LN32?usp=sharing
+
+-------------------------
+
 NightMiner
 ==========
 
