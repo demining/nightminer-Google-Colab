@@ -212,10 +212,10 @@ Make sure you are using the correct algoithm, that means `--algo=scrypt` _(the d
 **How do I get a question I have added?**
 E-mail me at nightminer@ricmoo.com with any questions, suggestions, comments, et cetera.
 
-**Can I give you my money?**
-Umm... Ok? :-)
 
-_Bitcoin_  - `1LNdGsYtZXWeiKjGba7T997qvzrWqLXLma`
-_Litecoin_ - `LXths3ddkRtuFqFAU7sonQ678bSGkXzh5Q`
-_Namecoin_ - `N6JLCggCyYcpcUq3ydJtLxv67eEJg4Ntk2`
+----
 
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
